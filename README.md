@@ -1,70 +1,101 @@
-**Privacy Policy**
+# Política de privacidad y tratamiento de datos personales de Nítido
 
-This privacy policy applies to the Nítido app (hereby referred to as "Application") for mobile devices that was created by Nítido (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
+Vigente desde el 4 de noviembre de 2026.
 
-**Information Collection and Use**
+## 1. Quiénes somos
 
-The Application collects information when you download and use it. This information may include information such as
+Nítido es un software para administrar lavaderos de vehículos. Funciona como app para celulares, como página web y, si el lavadero lo activa, como asistente de WhatsApp para agendar citas.
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+- **Empresa:** TECNOLOGIA NIT SAS
+- **NIT:** 901983890
+- **Domicilio:** Medellín, Colombia
+- **Teléfono:** 302 451 8094
+- **Correo:** contacto@nitidoapp.com
 
-The Application does not gather precise information about the location of your mobile device.
+Esta política explica qué datos maneja Nítido, para qué los usa, con quién los comparte y cómo puedes consultarlos, corregirlos o pedir que se borren. Cumple la Ley 1581 de 2012 y el Decreto 1377 de 2013 de Colombia.
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+## 2. Nuestro papel con tus datos
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+Nítido maneja dos tipos de datos y en cada caso tiene un papel distinto:
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+- **Datos de los lavaderos y de su personal** (la empresa que contrata Nítido y las personas que usan la app). Aquí Nítido es el **responsable** del tratamiento.
+- **Datos de los clientes de cada lavadero** (las personas que llevan su vehículo). Estos datos los registra el lavadero y le pertenecen al lavadero. El lavadero es el **responsable** y Nítido es el **encargado**: los guarda y los procesa por cuenta del lavadero, solo para prestarle el servicio.
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+## 3. Qué datos recogemos
 
-**Third Party Access**
+**Del lavadero y su personal**
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+- Nombre de la empresa, NIT, teléfono, correo y sedes.
+- Nombre, correo, teléfono y cargo de cada usuario.
+- Datos para calcular comisiones y pagos al personal.
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+**De los clientes del lavadero**
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+- Nombre, teléfono, correo, documento de identidad, barrio, dirección, fecha de nacimiento y sexo.
+- Datos del vehículo: placa, marca, referencia, color y tipo.
+- Servicios realizados, valores pagados y forma de pago.
+- Fotos del vehículo y firma del cliente en el ticket, si el lavadero las toma.
+- Citas agendadas y, en citas a domicilio, la dirección del servicio.
+- Si el lavadero usa el asistente de WhatsApp: el número de teléfono, el nombre del perfil y los mensajes de la conversación con el lavadero.
 
-**Opt-Out Rights**
+**Del uso de la app**
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+- Reportes técnicos de errores (modelo del celular, sistema operativo y versión de la app), para corregir fallas.
+- Un identificador del celular para enviar notificaciones.
 
-**Data Retention Policy**
+La app usa la cámara y la galería solo cuando el usuario toma o elige una foto. La app no recoge la ubicación del celular.
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at nitidoapp.ti@gmail.com and they will respond in a reasonable time.
+## 4. Para qué usamos los datos
 
-**Children**
+- Registrar los servicios, los tickets y las ventas del lavadero.
+- Agendar citas y enviar recordatorios.
+- Calcular comisiones y generar los reportes del lavadero.
+- Emitir la factura electrónica, si el lavadero tiene activa esa integración.
+- Enviar avisos y notificaciones sobre el servicio.
+- Dar soporte, corregir errores y mejorar Nítido.
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+Nítido no vende ni alquila datos personales y no los usa para publicidad de terceros.
 
-The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider (nitidoapp.ti@gmail.com) so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+## 5. Con quién compartimos los datos
 
-**Security**
+- **Google (Firebase y Google Cloud).** Es donde se guarda la información de Nítido. Siempre se usa, porque es la base del servicio.
+- **Siigo.** Solo si el lavadero activa la integración de facturación electrónica. En ese caso se envían a Siigo los datos necesarios para facturar: nombre o razón social, documento, correo, teléfono, dirección y los servicios facturados.
+- **Meta (WhatsApp).** Solo si el lavadero conecta su número de WhatsApp a Nítido. En ese caso los mensajes con los clientes pasan por WhatsApp, que es un servicio de Meta.
+- **Autoridades.** Solo cuando la ley lo exija.
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+Siigo y Meta se activan únicamente por decisión del lavadero, y el lavadero puede desconectarlos cuando quiera.
 
-**Changes**
+## 6. Cuánto tiempo guardamos los datos
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+Los datos se guardan mientras el lavadero tenga su cuenta en Nítido. Cuando el lavadero cancela el servicio, o cuando una persona pide que se borren sus datos, se eliminan. Solo se conserva la información que la ley obliga a guardar, como los registros de facturación, durante el tiempo que la ley exige.
 
-This privacy policy is effective as of 2025-10-27
+## 7. Tus derechos
 
-**Your Consent**
+Como titular de tus datos tienes derecho a:
 
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+- Conocer qué datos tuyos tenemos.
+- Actualizarlos o corregirlos.
+- Pedir que se borren.
+- Retirar la autorización que diste.
+- Pedir prueba de esa autorización.
+- Saber cómo se han usado tus datos.
+- Presentar una queja ante la Superintendencia de Industria y Comercio si consideras que no se respetaron tus derechos.
 
-**Contact Us**
+## 8. Cómo hacer una consulta o un reclamo
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at nitidoapp.ti@gmail.com.
+Escribe a **contacto@nitidoapp.com** o llama al **302 451 8094**. Indica tu nombre, cómo contactarte, qué necesitas y, si eres cliente de un lavadero, el nombre del lavadero.
 
-* * *
+- **Consultas** (saber qué datos tenemos): respondemos en un máximo de 10 días hábiles.
+- **Reclamos** (corregir, borrar o retirar la autorización): respondemos en un máximo de 15 días hábiles.
 
-This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+Si eres cliente de un lavadero, también puedes hacer la solicitud directamente al lavadero. Si nos escribes a nosotros, le avisamos al lavadero y lo atendemos junto con él.
+
+Para pedir que se borren tus datos, revisa también la página [Eliminación de datos](eliminar-datos.html).
+
+## 9. Seguridad
+
+La información viaja cifrada y se guarda en los servidores de Google Cloud. Cada persona entra con su propio usuario y solo ve lo que su perfil le permite dentro del lavadero al que pertenece.
+
+## 10. Cambios a esta política
+
+Si cambiamos esta política, publicaremos la nueva versión en esta misma página con la fecha de vigencia actualizada.
